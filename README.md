@@ -1,1 +1,1 @@
-# Homework-rcok-paper-scissors
+# Homework-rock-paper-scissors
